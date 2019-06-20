@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level6\physics-lineaabb-mastervs2019\lineaabb\main.cpp(407): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LineAABB.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6\physics-LineAABB-masterVS2019\LineAABB\Debug\LineAABB.exe
